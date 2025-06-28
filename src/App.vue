@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import TodoApp from './components/TodoApp.vue';
+import TodoApp from './components/todoApp.vue';
 </script>
